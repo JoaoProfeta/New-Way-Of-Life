@@ -76,37 +76,37 @@ li a:hover{
     overflow: hidden;
 }
 .parallax-conteudo{
-    background-image: url(Imagens/inicio1.jpg);
+    background-image: url(assets/inicio1.jpg);
 }
 .parallax-conteudo-2{
-    background-image: url(Imagens/inicio2.jpg) ;
+    background-image: url(assets/inicio2.jpg) ;
 }
 .parallax-conteudo-3{
-    background-image: url(Imagens/planejamento2.jpg);
+    background-image: url(assets/planejamento2.jpg);
 }
 .parallax-conteudo-4{
-    background-image: url(Imagens/planejamento1.jpg);
+    background-image: url(assets/planejamento1.jpg);
 }
 .parallax-conteudo-5{
-    background-image: url(Imagens/Leitura1.jpg);
+    background-image: url(assets/Leitura1.jpg);
 }
 .parallax-conteudo-6{
-    background-image: url(Imagens/leitura2.jpg);
+    background-image: url(assets/leitura2.jpg);
 }
 .parallax-conteudo-7{
-    background-image: url(Imagens/legumes.jpg);
+    background-image: url(assets/legumes.jpg);
 }
 .parallax-conteudo-8{
-    background-image: url(Imagens/frutas1.jpg);
+    background-image: url(assets/frutas1.jpg);
 }
 .parallax-conteudo-9{
-    background-image: url(Imagens/Oleaginosas1.jpg);
+    background-image: url(assets/Oleaginosas1.jpg);
 }
 .parallax-conteudo-10{
-    background-image: url(Imagens/corrida1.jpg);
+    background-image: url(assets/corrida1.jpg);
 }
 .parallax-conteudo-11{
-    background-image: url(Imagens/academia2.jpg);
+    background-image: url(assets/academia2.jpg);
 }
 /* formatação de conteudos */ 
 span{
